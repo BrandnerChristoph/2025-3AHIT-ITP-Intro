@@ -3,8 +3,11 @@ h1{
 }
 
 h2{
-
+    font-size: 12pt;
 }
 .green-style {
     color: green;
+}
+.blue-style {
+    color: blue;
 }
